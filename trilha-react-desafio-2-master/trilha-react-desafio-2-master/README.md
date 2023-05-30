@@ -2,7 +2,7 @@
 
 ## Para executar o projeto instale na pasta raiz o comando:
 
-npm install
+npm install e depois
 npm start para rodar o projeto
 Abra em [http://localhost:3000](http://localhost:3000) no seu navegador.
 
